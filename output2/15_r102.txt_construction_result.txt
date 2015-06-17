@@ -1,0 +1,9 @@
+# Solution for .\instances\15_r102.txt_construction
+526.967
+D0 C1 C70 C7 S9 C48 D0 
+D0 C52 C95 C2 D0 
+D0 C59 C45 S9 D0 
+D0 C80 S1 C75 D0 
+D0 C91 C38 S11 D0 
+D0 S7 C11 D0 
+D0 S9 C17 D0 

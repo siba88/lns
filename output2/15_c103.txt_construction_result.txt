@@ -1,0 +1,7 @@
+# Solution for .\instances\15_c103.txt_construction
+550.31
+D0 C40 C44 C50 C35 S13 C30 D0 
+D0 C10 C13 D0 
+D0 C61 D0 
+D0 C59 S13 C33 C18 S7 C98 D0 
+D0 C85 C95 S3 C19 S7 D0 
